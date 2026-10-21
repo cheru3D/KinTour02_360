@@ -1457,7 +1457,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Kinnaird01",
+  "name": "TourKin02",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
